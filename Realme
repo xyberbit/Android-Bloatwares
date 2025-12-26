@@ -42,6 +42,11 @@ pm uninstall --user 0
     com.oppo.quicksearchbox
     com.oplus.crashbox
 
+    com.facebook.services
+    com.facebook.katana
+    com.facebook.system
+    com.facebook.appmanager
+
 pm disable-user
 
     com.heytap.themestore
