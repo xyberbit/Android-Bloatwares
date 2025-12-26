@@ -1,0 +1,60 @@
+https://github.com/ArghyadipBiswas/Debloat-realme/blob/main/debloat_RMX3461_11_C.05.sh
+
+
+some packages for updates not recommended to uninstall or disable until phase out
+
+pm uninstall --user 0
+
+    com.heytap.pictorial
+    com.heytap.cloud
+    com.heytap.music
+    com.heytap.usercenter
+    com.heytap.quickgame
+    com.heytap.colorfulengine
+    com.heytap.cast
+    com.heytap.datamigration
+    com.heytap.mcs
+
+    com.nearme.statistics.rom
+    com.nearme.atlas
+    com.nearme.romupdate
+    com.realme.securitycheck
+    com.realme.link
+    com.realme.wellbeing
+    com.realme.movieshot
+
+    com.coloros.karaoke
+    com.coloros.gamespace
+    com.coloros.gamespaceui
+    com.coloros.childrenspace
+    com.coloros.healthcheck
+    com.coloros.healthservice
+    com.coloros.weather2
+    com.coloros.securepay
+    com.coloros.video
+    com.coloros.videoeditor
+    com.coloros.gallery3d
+    com.coloros.safecenter
+    com.coloros.securitykeyboard
+    com.coloros.securitypermission # not tried yet
+
+    com.oppo.atlas
+
+pm disable-user
+
+    com.heytap.themestore
+    com.heytap.openid
+
+    com.google.android.ims # auto disbaled?
+
+do not touch: recovery
+
+    com.heytap.appplatform
+
+screen flashing
+
+    com.coloros.weather.service
+
+
+
+
