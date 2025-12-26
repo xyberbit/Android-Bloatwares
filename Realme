@@ -39,6 +39,8 @@ pm uninstall --user 0
     com.coloros.securitypermission # not tried yet
 
     com.oppo.atlas
+    com.oppo.quicksearchbox
+    com.oplus.crashbox
 
 pm disable-user
 
@@ -47,11 +49,11 @@ pm disable-user
 
     com.google.android.ims # auto disbaled?
 
-do not touch: recovery
+result in recovery moe3
 
     com.heytap.appplatform
 
-screen flashing
+result in screen flashing
 
     com.coloros.weather.service
 
